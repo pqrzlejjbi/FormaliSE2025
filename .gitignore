@@ -1,0 +1,10 @@
+.idea
+__pycache__
+output
+*.pdf
+*.dot
+*.so
+*.osgb
+*.zip
+cache
+esmini
